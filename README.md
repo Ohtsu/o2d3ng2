@@ -101,9 +101,6 @@ Download or clone all the source files.
    - d3.js      : latest
    
 
-- Visual Studio 2015 version 14.023107.0 D14REL
-
-
 **Reference**
 
 - "データビジュアライゼーションのためのD3.js徹底入門 Webで魅せるグラフ&チャートの作り方",2014/6/6,by 古籏 一浩, 
