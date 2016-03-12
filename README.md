@@ -91,7 +91,7 @@ Download or clone all the source files.
  
  - graphData
 
- Each chart needs its own data in Jason format. You can understand the format easily by referencing to the Json Data. For example, if you want to know Line chart data format, please refer to "this.lineDataJson" in app.components.ts.
+ Each chart needs its own data in Json format. You can understand the format easily by referencing to the Json Data. For example, if you want to know Line chart data format, please refer to "this.lineDataJson" in app.components.ts.
 
 **Version**
 
