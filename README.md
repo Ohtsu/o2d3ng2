@@ -1,4 +1,4 @@
-# O2 D3.js Chart Library for Angular2 by TypeScript
+# O2 D3.js Chart Library for Angular2(2.0.0-beta.0) by TypeScript
 
 
 "o2d3ng2" is a chart library using d3.js for Angular2 written by TypeScript.
