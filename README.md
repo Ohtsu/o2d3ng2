@@ -3,6 +3,8 @@
 **This library is based on the β version of Angular2. In the Angular2 official version, the specification changed dramatically. Furthermore, d3.js's current version is version 4 (this library is based on version 3). For this reason, we changed the library fundamentally and registered it separately as a new "o2-chart" library. If you would like to use the official version of Angular2, please see the following.**
 
 
+https://github.com/Ohtsu/o2-chart
+
 "o2d3ng2" is a chart library using d3.js for Angular2 written by TypeScript.
 
 **Overview**
